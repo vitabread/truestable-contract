@@ -1,7 +1,5 @@
 # TrueStable
 
-A Solana lending protocol that allows users to deposit ORE tokens as collateral to borrow USDC.
-
 ## Features
 
 - Deposit ORE tokens as collateral
