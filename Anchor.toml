@@ -12,7 +12,7 @@ truestable = "CZVdyKQKuK3peBnfWtqXWF2AM6MKK2qneNhZuB6UMive"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "https://devnet.helius-rpc.com/?api-key=7ad72601-5330-4af0-b238-175e3ed057d1"
+cluster = "https://devnet.helius-rpc.com/?api-key="
 wallet = "~/.config/solana/id.json"
 
 [scripts]

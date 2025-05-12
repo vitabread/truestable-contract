@@ -32,7 +32,7 @@ The protocol implements the following main functions:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/truestable.git
+git clone https://github.com/yourusername/truestable-contract.git
 cd truestable
 ```
 
